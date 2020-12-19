@@ -1,7 +1,6 @@
 <img alt="Welcome" src="./assets/gifgit.gif"/>
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="center"/>
-<br>
 <h3>Hey there! I'm Jay Vishaal J</h3>
 
 ---
