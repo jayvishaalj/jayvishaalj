@@ -11,7 +11,7 @@
 🌱 &nbsp;I'm on track for learning more about Devops, Testing, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue UI Design and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at jayvishaalj.01@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at jayvishaaljana@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1PGPINbWb9HPs7COScFdgm4XakV8N-Lxf/view?usp=sharing) and [Portfolio](https://jayvishaalj.github.io) for more details about me. I'm open to feedback and suggestions!
 
 **I'm a Night 🦉**
