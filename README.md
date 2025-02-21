@@ -84,7 +84,7 @@
 
 <a href="https://jayvishaalj.github.io"><img src="https://img.shields.io/badge/-jayvishaalj.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/jay-vishaal-j"><img src="https://img.shields.io/badge/-Jay%20Vishaal%20J-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:jayvishaalj.01@gmail.com"><img src="https://img.shields.io/badge/-jayvishaalj.01@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:-jayvishaaljana@gmail.com"><img src="https://img.shields.io/badge/-jayvishaaljana@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 </p>
 
